@@ -48,8 +48,8 @@ No separate Python installation should be necessary for the packaged application
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/tanmaykukreja/System-Resource-Monitor
+cd System-Resource-Monitor
 ```
 
 Install the required dependencies:
